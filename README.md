@@ -7,7 +7,7 @@ Olá! Seja muito bem vindo à minha página do GitHub, me chamo Lucca, tenho 21 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/lucca-limoeiro-13b30b231/)
 [![Album Atual](https://img.shields.io/badge/Atualmente_Escutando-000?style=for-the-badge&logo=spotify)](https://open.spotify.com/intl-pt/album/5DLhV9yOvZ7IxVmljMXtNm?si=8ad91292790c4996)
 
-### Habilidades
+### Conhecimentos
 
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)
