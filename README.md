@@ -1,20 +1,19 @@
 # Lucca Limoeiro 
 
-Olá! Seja muito bem vindo à minha página do GitHub, me chamo Lucca, tenho 21 anos e em breve estarei cursando o 7° Semestre de Ciência da Computação pela Universidade de Fortaleza.
+Olá! Seja muito bem vindo à minha página do GitHub, me chamo Lucca, tenho 21 anos e atualmente estou cursando o 7° Semestre de Ciência da Computação pela Universidade de Fortaleza.
 
 ### Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/lucca-limoeiro-13b30b231/)
-[![Album Atual](https://img.shields.io/badge/Atualmente_Escutando-000?style=for-the-badge&logo=spotify)](https://open.spotify.com/intl-pt/album/5DLhV9yOvZ7IxVmljMXtNm?si=8ad91292790c4996)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/lucca-limoeiro-13b30b231/)
 
 ### Conhecimentos
 
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)
-![Clojure](https://img.shields.io/badge/Clojure-000?style=for-the-badge&logo=clojure)
-[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
-![VSCode](https://img.shields.io/badge/VSCode-000?style=for-the-badge)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
+[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 
 ### GitHub Stats
 
