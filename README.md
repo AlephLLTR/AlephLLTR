@@ -17,5 +17,8 @@ Olá! Seja muito bem vindo à minha página do GitHub, me chamo Lucca, tenho 21 
 
 ### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlephLLTR&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true&hide=stars)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AlephLLTR&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true)
+<img src="https://github-readme-stats.vercel.app/api?username=AlephLLTR&theme=nightowl&show_icons=true&hide_border=false&count_private=true" alt="AlephLLTR's GitHub Stats" />  <img src="https://streak-stats.demolab.com?user=AlephLLTR&theme=nightowl&hide_border=false" alt="AlephLLTR's GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlephLLTR&theme=nightowl&show_icons=true&hide_border=false&layout=compact" alt="AlephLLTR's GitHub Stats" />
+
+
