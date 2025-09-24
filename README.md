@@ -1,6 +1,6 @@
 # Lucca Limoeiro 
 
-Olá! Seja muito bem vindo à minha página do GitHub, me chamo Lucca, tenho 21 anos e atualmente estou cursando o 7° Semestre de Ciência da Computação pela Universidade de Fortaleza.
+Olá! Seja muito bem vindo à minha página do GitHub, me chamo Lucca, tenho 22 anos e atualmente estou cursando o 8° Semestre de Ciência da Computação pela Universidade de Fortaleza.
 
 ### Conecte-se comigo
 
